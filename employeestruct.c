@@ -30,16 +30,6 @@ int main()
 	{
 		 printf("\nDisplaying information of employee %d\n",i+1);
 		display(e[i]);
-	}
-	
-
-    //printf("Enter name: ");
-   /* scanf("%[^\n]%*c", s1.name);
-
-    printf("Enter age: ");
-    scanf("%d", &s1.age);*/
-    
-    //display(s1);   // passing struct as an argument
     
     return 0;
 }
